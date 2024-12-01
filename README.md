@@ -54,15 +54,15 @@ Interactive feedback channels and surveys gather insights from alumni to improve
 
 
 ## Technology Stack
-Frontend: React.js for the web application and Flutter for the mobile app, ensuring dynamic, responsive, and cross-platform compatibility.
-Backend: Node.js with Express.js for API development, integrated with a scalable PostgreSQL database for data management.
-Security: Secure login using OAuth2, multi-factor authentication (MFA), and data encryption.
-Hosting: Cloud-based solutions like AWS or Google Cloud ensure high performance and reliability.
+1.Frontend: React.js for the web application and Flutter for the mobile app, ensuring dynamic, responsive, and cross-platform compatibility.
+2.Backend: Node.js with Express.js for API development, integrated with a scalable PostgreSQL database for data management.
+3.Security: Secure login using OAuth2, multi-factor authentication (MFA), and data encryption.
+4.Hosting: Cloud-based solutions like AWS or Google Cloud ensure high performance and reliability.
 
 
 ## Dependencies
-Third-party libraries and frameworks: For authentication,payement processing,email,and SMS notifications
-cloud infrastructures providers: for hosting the application and database
-Domain name and hosting: for the website's domain name and web hosting
-Security measures: to protect user data and prevent cyberattacks.
+1.Third-party libraries and frameworks: For authentication,payement processing,email,and SMS notifications
+2.cloud infrastructures providers: for hosting the application and database
+3.Domain name and hosting: for the website's domain name and web hosting
+4.Security measures: to protect user data and prevent cyberattacks.
 
